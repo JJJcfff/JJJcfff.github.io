@@ -199,3 +199,16 @@ footer {
     align-items: center;
     overflow: hidden;
 }
+
+.about-container {
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.about-image {
+    margin-top: 200px;
+    width: 400px;
+    height: 400px;
+}
